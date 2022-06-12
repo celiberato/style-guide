@@ -1,3 +1,5 @@
+npm install gh-pages --save-dev
+
 # Style Guide
 Project com Material Design
 
